@@ -10,4 +10,4 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-// new j
+// new jj
